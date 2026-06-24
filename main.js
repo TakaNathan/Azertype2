@@ -60,8 +60,12 @@ listeBtnRadio.forEach((btn) => {
 });
 
 btnReset.addEventListener("click", () =>{
-    let score = 0;
-    let indexActuel = 0;
-    let listeActive = listeMots;
+     score = 0;
+     indexActuel = 0;
+     listeActive = "";
+    inputEcriture.value = "";
     afficherProposition();
+    listeBtnRadio.forEach((btn) => {
+  btn.checked=false;
+});
 })
