@@ -1,2 +1,2 @@
  let listeMots = ["nathan","Petunia","CachaloT","Amoureux","MatIn","AureVoir"];
- let listePhrases = ["Pas de panique","Tu es le meilleur","tu reussiras!","Cristiano ronaldo","SOS ici la Terre"];
+ let listePhrases = ["Pas de panique","Tu es le meilleur","tu reussiras!","Cristiano ronaldo","SOS ici la Terre","comment Cava?"];
