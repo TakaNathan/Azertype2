@@ -73,6 +73,7 @@ button {
     font-size: 17px;
     color: var(--color-secondary);
     background-color: white;
+    width: 125%;
 }
 
 button:hover {
